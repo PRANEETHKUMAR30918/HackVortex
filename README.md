@@ -62,7 +62,7 @@ We designed a system that:
  **Run Instructions**
 
 # 1. Make sure Node.js is installed
-# 2. Download the ZIP file of the repo
+# 2. Download only the fundvision.zip file of the repo
 # 3. Extract the ZIP and open the folder
 # 4. Open terminal/cmd in the project path
 # 5. Run the following commands:
