@@ -67,6 +67,7 @@ We designed a system that:
 # 4. Open terminal/cmd in the project path
 # 5. Run the following commands:
 npm install
+
 npm run dev
 # 6. Open your browser and click on the local host link (usually http://localhost:5173)
 
