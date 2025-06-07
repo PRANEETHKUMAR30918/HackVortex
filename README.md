@@ -1,7 +1,5 @@
 ## 🎯 **FundVision – Smart Mutual Fund Recommendation System**
 
-👨‍💻 **Presented by: HackOn team** 
-
 
 ### 🧩 **Problem Statement**
 
